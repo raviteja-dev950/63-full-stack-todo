@@ -374,7 +374,7 @@ SQL> SELECT ID, TITLE, DESCRIPTION, COMPLETED FROM TODOS;
 
 # 📸 Screenshots
 
-```text
+```
 screenshots/demo1.png - Backend API JSON Response (localhost:9198/api/todos)
 screenshots/demo2.png - Frontend UI - All Todos Pending (localhost:5173)
 screenshots/demo3.png - Frontend UI - One Completed with Green Highlight

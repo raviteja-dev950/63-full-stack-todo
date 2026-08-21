@@ -458,3 +458,4 @@ frontend/
 Port: 5173
 Framework: React 19 + Vite
 ```
+

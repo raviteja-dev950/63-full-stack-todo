@@ -378,7 +378,7 @@ SQL> SELECT ID, TITLE, DESCRIPTION, COMPLETED FROM TODOS;
 ![Backend API](screenshots/demo2.png)
 
 ### 2. Frontend UI - All Todos (localhost:5173)
-![Frontend Pending](screenshots/demo1.png)
+![Frontend ](screenshots/demo1.png)
 
 ### 3. Frontend UI - One Completed with Green Highlight
 ![Frontend Completed](screenshots/demo3.png)
@@ -423,13 +423,13 @@ SQL> SELECT ID, TITLE, DESCRIPTION, COMPLETED FROM TODOS;
 
 **Ravi Teja**
 
-Java Full Stack Developer
+**Java Full Stack Developer**
 
-100 Java Full Stack Projects Challenge
+**100 Java Full Stack Projects Challenge**
 
 **Project 63 / 100**
 
-Tier 7 – Full Stack Mastery with Oracle (Started!)
+**Tier 7 – Full Stack Mastery with Oracle (Started!)**
 
 ---
 

@@ -374,13 +374,17 @@ SQL> SELECT ID, TITLE, DESCRIPTION, COMPLETED FROM TODOS;
 
 # 📸 Screenshots
 
-```
-screenshots/demo1.png - Backend API JSON Response (localhost:9198/api/todos)
-screenshots/demo2.png - Frontend UI - All Todos Pending (localhost:5173)
-screenshots/demo3.png - Frontend UI - One Completed with Green Highlight
-screenshots/demo4.png - Oracle 11g SQL*Plus Verification (SELECT * FROM TODOS)
-```
+### 1. Backend API JSON Response (localhost:9198/api/todos)
+![Backend API](screenshots/demo1.png)
 
+### 2. Frontend UI - All Todos Pending (localhost:5173)
+![Frontend Pending](screenshots/demo2.png)
+
+### 3. Frontend UI - One Completed with Green Highlight
+![Frontend Completed](screenshots/demo3.png)
+
+### 4. Oracle 11g SQL*Plus Verification
+![Oracle Verification](screenshots/demo4.png)
 ---
 
 # 🎯 Learning Outcomes
